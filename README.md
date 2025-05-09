@@ -9,6 +9,12 @@ Es un programa que nos permite ingresar el nombre de nuestras tareas y permite a
 - ✅ Tener más conocimientos de Javascript
 
 
+## Funcionalidades
+- Agregar tareas
+- Eliminar tareas
+- Marcalas como completadas
+
+
 ## 🛠️ Tecnologías / Herramientas Utilizadas
 - 🧪 Lenguajes de programación:
     - JavasCript
