@@ -1,0 +1,60 @@
+body{
+    background-color: beige;
+}
+
+
+.titulo{
+    background-color: burlywood;
+}
+
+
+.lista{
+    background-color: rgba(0, 255, 255, 0.486);
+    height: auto;
+}
+.tareasn{
+    background-color: rgba(137, 43, 226, 0.479);
+    height: 50rem;
+
+}
+.tareas{
+    background-color: rgba(245, 222, 179, 0.39);
+    height: auto;
+
+}
+
+.hr{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-top: 2rem;
+    border-top: 0.3rem solid black;
+}
+.entrada{
+    border-radius: 0.5rem;
+    padding: 0.4rem;
+    border: 0.1rem solid black;
+    background-color: azure;
+}
+
+.contarea{
+    padding: 0.5rem;
+    border: 0.2rem solid black;
+    background-color:wheat;
+}
+.btn{
+    border: 0.1rem solid maroon;
+    margin-top: 1rem;
+    margin-right: 0.5rem;
+}
+.btn:hover{
+    border: 0.1rem solid maroon;
+    background-color: rgb(235, 235, 207);
+}
+.alerta{
+    position: absolute;
+    margin-top: 5rem;
+    font-size: 1.5rem;
+    border: 0.1rem solid black;
+    padding: 0.5rem;
+}
