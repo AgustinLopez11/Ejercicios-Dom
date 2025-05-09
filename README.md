@@ -1,7 +1,7 @@
-# 🚀 Funcionamiento de una calculadora con Web con JS
+# 🚀 Creación de un To-Do con JS
 
-## 📝 Calculadora Funcional
-Esta calculadora funciona con operaciones básicas, como sumar, restar, multiplicar y dividir.
+## 📝 Lista de Tareas
+Es un programa que nos permite ingresar el nombre de nuestras tareas y permite adjuntarlas en donde nosotros queremos (tareas, tareas importantes, tareas ya completadas)
 
 ## 🎯 Objetivos
 - ✅ Entrender el funcionamiento del Dom
@@ -17,16 +17,18 @@ Esta calculadora funciona con operaciones básicas, como sumar, restar, multipli
 ## 📅 Cronograma / Fases del Proyecto
 | 🔢 Fase            | 🕐 Inicio       | 🛑 Finalización | 🗒️ Descripción breve       |
 |-------------------|----------------|----------------|-------------------------------|
-| Fase 1            | 6/05/2025      | 8/05/2025      | Desarrollo y Finalización     |
+| Fase 1            | 8/05/2025      | 9/05/2025      | Desarrollo y Finalización     |
 
 ## ---------------- Vista previa del Proyecto --------------------
 
--------------------![calculadora](./img/img1.png)
+-------------------![Lista-de-tareas](./img/todo.png)
 
 
 ## 📬 Contacto
 **👤 Responsable:** Agustín López 
 
+
 **📧 Correo electrónico:** agus77chang@gmail.com  
+
 
 **📞 Teléfono:** 54505400 
