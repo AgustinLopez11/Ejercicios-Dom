@@ -6,7 +6,7 @@ let ul2 = document.querySelector('.contenedor2')
 let ul3 = document.querySelector('.contenedor3')
 let entrada = document.querySelector('.entrada')
 let contenedor = document.querySelector('.contenedor')
-
+let alerta=document.createElement('div')
 
 
 
@@ -52,13 +52,13 @@ function listas(event) {
 botones.forEach(boton => {
     boton.addEventListener('click', (event) => {
         if (String(entrada.value).trim() == "") {
-            let alerta=document.createElement('div')
-            alerta.innerText= 'Esta vacio wacho!!'
+            
+            alerta.innerHTML= '❌ No se agrego ninguna tarea </br> (tienes que escribir algo)'
             alerta.classList.add('alerta')
             contenedor.appendChild(alerta)
-
         } else {
             listas(event)
+            alerta.remove()
         }
     })
 })
