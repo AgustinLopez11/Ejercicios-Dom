@@ -1,6 +1,5 @@
 const botones = Array.from(document.querySelectorAll(".btn"));
 
-//Creo li
 let ul = document.querySelector('.contenedor1')
 let ul2 = document.querySelector('.contenedor2')
 let ul3 = document.querySelector('.contenedor3')
