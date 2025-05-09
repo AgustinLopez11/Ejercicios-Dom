@@ -27,7 +27,7 @@ Es un programa que nos permite ingresar el nombre de nuestras tareas y permite a
 
 ## ---------------- Vista previa del Proyecto --------------------
 
--------------------![Lista-de-tareas](./img/todo.png)
+-------------------![Lista-de-tareas](./img/todo1.png)
 
 
 ## 📬 Contacto
